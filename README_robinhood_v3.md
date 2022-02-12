@@ -19,9 +19,11 @@ Robinhood is an internet stock trading platform that offers unlimited commission
 
 *Competitors*
 
-```
-Etrade
-Webull
-Sofi
-TD Ameritrade
-```
+
+
+* Etrade
+* Webull
+* Sofi
+* TD Ameritrade
+
+
